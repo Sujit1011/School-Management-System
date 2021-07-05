@@ -7,7 +7,7 @@
   - Navigate to the relevant directory: 
     - WAMP:   `(install location)/wamp/www` 
     - XAMPP:  `(install location)/xampp/htdocs`
-  - Clone the repository: `git clone https://github.com/Sujit1011/Sample_PHP_Project.git`
+  - Clone the repository: `https://github.com/Sujit1011/School-Management-System.git`
   - Start the server:
     - WAMP:   `(install location)/wamp/wampmanager.exe`
     - XAMPP:  `(install location)/xampp-control.exe`
