@@ -12,5 +12,3 @@
     - WAMP:   `(install location)/wamp/wampmanager.exe`
     - XAMPP:  `(install location)/xampp-control.exe`
   - Open Browser and navigate to `http://localhost/School-Management-System`
-  - User Name - 'ABC'
-  - Password - '12345'
